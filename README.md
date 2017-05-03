@@ -21,4 +21,4 @@ CS 581 - DBMS Ridesharing Project
 
 ## Important Notes
 1) Depending on your processor, when running our program, processing times may be extremely long specifically when k=3, pool window of 5 minutes, and the number of pools you process is a large number. I would experiment with smaller numbers. Use the examples given first.
-
+2) Do Not Run - Original Program With Filtering.ipynb is a file that you can refer to see some of the filtering process (i.e. filtering JFK Airport using points in a polygon). Do not use this file to run the program.
