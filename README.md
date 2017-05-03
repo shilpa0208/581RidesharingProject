@@ -1,9 +1,9 @@
 # 581RidesharingProject
 CS 581 - DBMS Ridesharing Project
 
-Instructions on How to Run
+# Instructions on How to Run
 
-# Preliminary Things
+## Preliminary Things
 1) Install Jupyter Notebook software: http://jupyter.org/install.html
 
 2) Setup Graphhopper API Locally
@@ -15,10 +15,9 @@ Instructions on How to Run
 
 3) Clone/Download Git Repository: Specifically Delay1_2.xlsx, Delay1_3.xlsx, Delay1_5.xlsx, and Ridesharing Program.ipynb
 
-# Running Ridesharing Program
+## Running the Ridesharing Program
 1) Start Jupyter Notebook and open Ridesharing Program.ipynb
 2) In order to run the program, you will have to compile every cell. Follow the directions in the notebook. They are straightforward.
 
-# Important Notes
+## Important Notes
 1) Depending on your processor, when running our program, processing times may be extremely long specifically when k=3, pool window of 5 minutes, and the number of pools you process is a large number. I would experiment with smaller numbers. Use the examples given first.
-2) 
