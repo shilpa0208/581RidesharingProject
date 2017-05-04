@@ -2,7 +2,7 @@
 CS 581 - DBMS Ridesharing Project
 
 # Instructions on How to Run
-There's an instructional video above that you can use on how to run our program.
+There's an [instructional video](https://youtu.be/MoOnZzU8ZTk) that you can use on how to run our program.
 
 ## Preliminary Things
 1) Install Jupyter Notebook software: http://jupyter.org/install.html
