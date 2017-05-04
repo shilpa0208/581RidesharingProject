@@ -2,6 +2,7 @@
 CS 581 - DBMS Ridesharing Project
 
 # Instructions on How to Run
+There's an instructional video above that you can use on how to run our program.
 
 ## Preliminary Things
 1) Install Jupyter Notebook software: http://jupyter.org/install.html
@@ -15,6 +16,7 @@ CS 581 - DBMS Ridesharing Project
 
 3) Clone/Download Git Repository: Specifically Delay1_2.xlsx, Delay1_3.xlsx, Delay1_5.xlsx, and Ridesharing Program.ipynb
 
+
 ## Running the Ridesharing Program
 1) Start Jupyter Notebook and open Ridesharing Program.ipynb
 2) In order to run the program, you will have to compile every cell. Follow the directions in the notebook. They are straightforward.
@@ -22,3 +24,4 @@ CS 581 - DBMS Ridesharing Project
 ## Important Notes
 1) Depending on your processor, when running our program, processing times may be extremely long specifically when k=3, pool window of 5 minutes, and the number of pools you process is a large number. I would experiment with smaller numbers. Use the examples given first.
 2) Do Not Run - Original Program With Filtering.ipynb is a file that you can refer to see some of the filtering process (i.e. filtering JFK Airport using points in a polygon). Do not use this file to run the program.
+3) If graphs in final report pdf are not legible, please refer to Graphs.xlsx to see originals.
